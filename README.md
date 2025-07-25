@@ -1,10 +1,10 @@
-# Ling Wang (王玲)
+# Zhu Qi
 
 Ph.D. Student
-School of Computer Science, Example University
+School of Artifical Intelligence, Beijing Normal University
 
-Email: ling.wang@example.edu
+Email: 202431081029@bnu.edu.cn
 
 ## Research Interests
 - Machine Learning
-- Natural Language Processing
+- Deep Learning
